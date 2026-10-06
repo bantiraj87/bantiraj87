@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hello, I'm **Banti Kumar**
+# 👋 Hi, I'm **Banti Kumar**
 
-### 💻 Data Entry Specialist | Web Developer | Computer Science Graduate
+### 💻 Full Stack Developer | Data Management | Web Designer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+Build+Websites+%26+Digital+Solutions;Computer+Science+Graduate;Data+Entry+%7C+Web+Development+%7C+WordPress;Always+Learning+Something+New+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+Backend+Developer;Web+Designer+%7C+PHP+Developer;Currently+Working+Full-Time+on+Coding;Managing+Data+%26+Multiple+Projects;Building+Websites%2C+Tools+%26+Digital+Solutions" />
 </p>
 
 <p>
@@ -15,13 +15,26 @@
   <a href="https://www.linkedin.com/in/banti-kumar-prajapati-1b7354233/">
     <img src="https://img.shields.io/badge/LinkedIn-Banti%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=bantiraj87&label=Profile%20Views&color=2563EB&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/bantiraj87?style=for-the-badge&label=Followers" />
-  <img src="https://img.shields.io/github/stars/bantiraj87?style=for-the-badge&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=bantiraj87&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/bantiraj87?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/bantiraj87?label=STARS&style=for-the-badge&color=yellow" />
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **WELCOME TO MY DIGITAL WORKSPACE**
+
+### `Code` • `Design` • `Data` • `Build` • `Improve`
 
 </div>
 
@@ -31,136 +44,133 @@
 
 <table>
 <tr>
+
 <td width="65%">
 
-### Hi there! 👋
+### Hey! I'm Banti 👋
 
-I'm **Banti Kumar**, a Computer Science graduate with a strong interest in **web development, web design, digital solutions, data management and technology**.
+I'm a **Computer Science graduate** and currently working **full-time in coding and data management**.
 
-I enjoy creating practical digital solutions and working with websites, web applications and online tools.
+My work involves developing websites, working with web technologies, managing digital data, creating useful web-based tools and handling multiple projects simultaneously.
 
-Currently, I work as a **Data Entry Specialist**, where accuracy, organization and efficient information processing are an important part of my work.
+I enjoy turning ideas into practical digital solutions and continuously improving my technical skills through real-world development.
 
-My academic background in Computer Science gives me a strong foundation for understanding technology and solving problems through digital solutions.
+I'm particularly interested in:
 
-I believe in continuously learning, experimenting with new technologies and improving my skills through practical projects.
+- 🌐 Frontend Development
+- ⚙️ Backend Development
+- 🎨 Web Design
+- 🧩 WordPress Development
+- 🐘 PHP Development
+- 🗄️ Database Management
+- 📊 Data Management
+- 🛠️ Online Tools
+- 🔍 SEO & Website Optimization
 
 </td>
 
 <td width="35%">
 
-### 📌 Quick Info
+### 📌 Quick Profile
 
-🎓 **Education**  
-Bachelor's Degree in Computer Science
+🎓 **Education**
 
-🏫 **University**  
-Patliputra University
+Bachelor's Degree in Computer Science  
+**Patliputra University • 2025**
 
-📅 **Graduated**  
-2025
+<br>
 
-💼 **Current Role**  
-Data Entry Specialist
+💼 **Current Work**
 
-🌐 **Focus**  
-Web Development
+**Full-Time Coding & Data Management**
 
-📍 **Location**  
+<br>
+
+🌐 **Main Focus**
+
+Web Development & Digital Solutions
+
+<br>
+
+📍 **Location**
+
 Bihar, India
 
+<br>
+
+🚀 **Working Style**
+
+Multiple Projects & Continuous Learning
+
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🚀 What I Do
+# 💼 My Current Work
+
+<div align="center">
+
+| 💻 Coding | 📊 Data Management | 🌐 Web Development | 🎨 Web Design |
+|:---:|:---:|:---:|:---:|
+| **Full-Time** | **Full-Time** | **Active** | **Active** |
+
+</div>
+
+### 🔥 Currently I'm Working On
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="20%" align="center">
 
-## 🌐
+### 💻
 
-### Web Development
+**Coding**
 
-Building responsive and practical websites using modern web technologies.
-
-</td>
-
-<td align="center" width="25%">
-
-## 🎨
-
-### Web Design
-
-Creating clean, simple and user-friendly website interfaces.
+Developing websites, applications and digital solutions.
 
 </td>
 
-<td align="center" width="25%">
+<td width="20%" align="center">
 
-## 🧩
+### 📊
 
-### WordPress
+**Data**
 
-Developing and customizing WordPress websites for different requirements.
-
-</td>
-
-<td align="center" width="25%">
-
-## ⚙️
-
-### Web Applications
-
-Creating useful browser-based applications and digital tools.
+Managing and organizing digital information.
 
 </td>
 
-</tr>
+<td width="20%" align="center">
 
-<tr>
+### 🌐
 
-<td align="center">
+**Websites**
 
-## 📊
-
-### Data Management
-
-Organizing and processing structured digital information.
+Building responsive and useful websites.
 
 </td>
 
-<td align="center">
+<td width="20%" align="center">
 
-## 📝
+### 🛠️
 
-### Data Entry
+**Tools**
 
-Accurate and efficient information processing.
-
-</td>
-
-<td align="center">
-
-## 🔧
-
-### Website Maintenance
-
-Managing website updates, improvements and optimization.
+Creating practical online utilities.
 
 </td>
 
-<td align="center">
+<td width="20%" align="center">
 
-## 🔍
+### 📁
 
-### SEO
+**Projects**
 
-Working toward better website structure, usability and visibility.
+Working on multiple projects simultaneously.
 
 </td>
 
@@ -169,71 +179,238 @@ Working toward better website structure, usability and visibility.
 
 ---
 
-# 🛠️ My Technology Stack
+# 🎨 My Development Roles
 
-## 🌐 Frontend Development
+<table>
+<tr>
 
-<p>
+<td width="33%" align="center">
+
+# 🌐
+
+## Frontend Developer
+
+I build responsive and user-friendly interfaces with a focus on clean layouts, usability and performance.
+
+### Technologies
+
 <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
 
-| Technology | Purpose |
-|---|---|
-| 🟧 HTML | Website structure |
-| 🟦 CSS | Styling and responsive design |
-| 🟨 JavaScript | Interactive functionality |
+<br>
 
----
+`HTML` `CSS` `JavaScript`
 
-## ⚙️ Backend & Database
+</td>
 
-<p>
+<td width="33%" align="center">
+
+# ⚙️
+
+## Backend Developer
+
+I work with server-side development, database-driven applications and backend functionality.
+
+### Technologies
+
 <img src="https://skillicons.dev/icons?i=php,mysql" />
-</p>
 
-| Technology | Purpose |
-|---|---|
-| 🐘 PHP | Server-side development |
-| 🐬 MySQL | Database management |
+<br>
+
+`PHP` `MySQL`
+
+</td>
+
+<td width="33%" align="center">
+
+# 🎨
+
+## Web Designer
+
+I create clean, responsive and practical website designs with attention to usability and visual presentation.
+
+### Focus
+
+`UI` `UX` `Responsive Design` `SEO`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧩 CMS & Development Tools
+# 🛠️ Technology Stack
 
-<p>
+## 🌐 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+</div>
+
+---
+
+## ⚙️ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+---
+
+## 🧩 CMS & Tools
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode" />
-</p>
 
-| Tool | Purpose |
-|---|---|
-| 🟦 WordPress | Website & CMS development |
-| 🔧 Git | Version control |
-| 🐙 GitHub | Code hosting & collaboration |
-| 💙 VS Code | Development environment |
+<br><br>
 
----
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-## 💻 Platform
-
-<p>
-<img src="https://skillicons.dev/icons?i=windows" />
-</p>
+</div>
 
 ---
 
-# 📚 Skills Overview
+# 🧰 Skills & Expertise
+
+<table>
+<tr>
+
+<td>
+
+### 💻 Development
+
+- Frontend Development
+- Backend Development
+- PHP Development
+- Web Applications
+- API Integration
+- Database-driven Websites
+
+</td>
+
+<td>
+
+### 🎨 Design
+
+- Web Design
+- Responsive Design
+- UI Structure
+- User Experience
+- Mobile-Friendly Layouts
+- Website Optimization
+
+</td>
+
+<td>
+
+### 📊 Data
+
+- Data Entry
+- Data Management
+- Data Organization
+- Information Processing
+- Data Verification
+- Digital Records
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌐 Websites
+
+I build modern and responsive websites for different requirements.
+
+**Focus:**
+
+`Responsive` `Fast` `Clean UI` `SEO`
+
+</td>
+
+<td width="50%">
+
+## 🛠️ Online Tools
+
+I create practical web-based tools designed to simplify everyday digital tasks.
+
+**Focus:**
+
+`Utility` `Automation` `Productivity`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧩 WordPress Projects
+
+I develop and customize WordPress websites with performance and usability in mind.
+
+**Focus:**
+
+`WordPress` `PHP` `SEO` `Performance`
+
+</td>
+
+<td width="50%">
+
+## 📊 Data Solutions
+
+I work with structured information and digital data management.
+
+**Focus:**
+
+`Data` `Organization` `Processing`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📁 Featured Project Areas
+
+### 🌐 Website Development
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║                     MY SKILL AREAS                         ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🌐 Web Development        ████████████████████░░  90%     ║
-║  🎨 Web Design             ██████████████████░░░░  85%     ║
-║  🧩 WordPress              ██████████████████░░░░  85%     ║
-║  📝 Data Entry             ████████████████████░░  90%     ║
-║  📊 Data Management        ██████████████████░░░░  85%     ║
-║  🔧 Website Maintenance    █████████████████░░░░░  80%     ║
-║  🔍 SEO                    ███████████████░░░░░░░  75%     ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+Responsive Websites
+        ↓
+Modern UI
+        ↓
+Mobile Friendly
+        ↓
+Performance
+        ↓
+SEO
